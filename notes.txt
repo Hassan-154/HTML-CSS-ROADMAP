@@ -1,0 +1,21 @@
+html -> standerd markup language for creating the web page.
+head -> head section of html docoment
+doctype -> its a information to the broswer about the document
+body  -> all content of html document
+paragraph -> browser automatically add a line before and after of tag
+anchor -> used to link one page to another
+href -> indicates the destination of hyper link
+img ->  Images are not technically inserted into a web page, Images are link to web page
+audio -> used to insert sound content using source
+list types-> there are three list available, order | unorder | description list
+table -> used to arrange data into rows and column
+form -> used to collect user input
+div -> divison of section in html
+span -> generic enline container | for styling purpose | to write text on the same line
+Semantic tags -> allow web broswer to shared and reused accross application
+formating tags -> there is almost 14 types of formating tags are available in html
+difference between block-level and and inline elements -> the block level is like h1, h2.. . and inline is -> strong, span
+attribute in html -> the attribute in html is color, size and more.. .
+pixel -> are fixed and does not rely on another element
+box-sizing -> allow use to add padding, border within element total height and wdith
+background -> 
