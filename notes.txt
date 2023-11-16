@@ -18,4 +18,27 @@ difference between block-level and and inline elements -> the block level is lik
 attribute in html -> the attribute in html is color, size and more.. .
 pixel -> are fixed and does not rely on another element
 box-sizing -> allow use to add padding, border within element total height and wdith
-background -> 
+
+before and after -> used to style specific part of an element
+                 - h1::first-line
+pasedu classes -> used to define a special state of an element
+               - like hover, active, visited etc 
+float -> used to float element to left and right
+
+display ->  4 tpes of display available, none, inline, block, inline block
+
+object-fit -> how an image should be resized to fit into container, 
+object-fit cover -> crop image from side
+object fit container -> if give height more than the image width than it will create empty space around
+object fill, just fill that width and heigt that we define
+
+position
+static -> normal flow of the page and, left right will not work
+relative -> its like a normal flow of the page, but left right work
+
+flex ->
+flex grow ->
+flex shrink ->
+flex basic ->
+
+
